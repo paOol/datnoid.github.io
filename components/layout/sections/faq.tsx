@@ -3,7 +3,7 @@ import {
   AccordionContent,
   AccordionItem,
   AccordionTrigger,
-} from "@/components/ui/accordion";
+} from '@/components/ui/accordion';
 
 interface FAQProps {
   question: string;
@@ -13,33 +13,29 @@ interface FAQProps {
 
 const FAQList: FAQProps[] = [
   {
-    question: "Is this template free?",
-    answer: "Yes. It is a free NextJS Shadcn template.",
-    value: "item-1",
+    question: 'What makes Datnoid more profitable than traditional DEXes?',
+    answer:
+      'The secret sauce is our double revenue model. If someone uses AVAX to buy a token on our DEX, the result is that more avax is added into our pool, meaning that the market price of AVAX is now lower on our DEX than other platforms. If AVAX is $50 everywhere, but now $45 on Datnoid, someone is guaranteed to come in and buy the avax and sell it elsewhere until the market price is back to normal. This generates us free guaranteed volume which no other DEX can provide. More swaps means higher returns for Liquidity providers. In addition to double revenue, LPs earn for every swap of every asset in our pool.',
+    value: 'item-1',
   },
   {
-    question: "Duis aute irure dolor in reprehenderit in voluptate velit?",
+    question: 'Where does the liquidity come from?',
     answer:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint labore quidem quam consectetur sapiente, iste rerum reiciendis animi nihil nostrum sit quo, modi quod.",
-    value: "item-2",
+      'We have a unified liquidity pool, we seed the initial liquidity ourselves and it only grows over time from other LPs staking assets',
+    value: 'item-2',
   },
   {
     question:
-      "Lorem ipsum dolor sit amet Consectetur natus dolor minus quibusdam?",
+      'What features make Datnoid stand out from pump and other clones?',
     answer:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore qui nostrum reiciendis veritatis.",
-    value: "item-3",
+      'Pump.fun is a bond curve contract and users buy into tokens to seed the liquidity where it is migrated to a 3rd party DEX if there is enough traction. Datnoid IS the DEX with a unified liquidity pool and has no bond curve contract exploits.',
+    value: 'item-3',
   },
   {
-    question: "Excepteur sint occaecat cupidata non proident sunt?",
-    answer: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
-    value: "item-4",
-  },
-  {
-    question:
-      "Enim ad minim veniam, quis nostrud exercitation ullamco laboris?",
-    answer: "consectetur adipisicing elit. Sint labore.",
-    value: "item-5",
+    question: 'How does Datnoid prevent scams for token traders?',
+    answer:
+      ' 100% of the token supply is added into our unified liquidity pool when a token is created. This means no pre-allocation for anyone, not even ourselves. This means no one can dump a portion of the token supply on users. We also use an audited smart contract to generate the tokens so you can trust there are no exploits or vulnerabilities with the tokens created on Datnoid.',
+    value: 'item-4',
   },
 ];
 
