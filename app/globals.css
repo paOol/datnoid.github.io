@@ -102,8 +102,7 @@ html {
     --border: 20 5.9% 90%;
     --input: 20 5.9% 90%;
     --ring: 265 85.7% 58%;
-    --radius: 0.5rem;
-  }
+    --radius: 0.5rem;  }
 
   .dark {
     --background: 20 14.3% 4.1%;
