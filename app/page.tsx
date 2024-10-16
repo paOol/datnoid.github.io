@@ -1,42 +1,64 @@
-import { BenefitsSection } from "@/components/layout/sections/benefits";
-import { CommunitySection } from "@/components/layout/sections/community";
-import { ContactSection } from "@/components/layout/sections/contact";
-import { FAQSection } from "@/components/layout/sections/faq";
-import { FeaturesSection } from "@/components/layout/sections/features";
-import { FooterSection } from "@/components/layout/sections/footer";
-import { HeroSection } from "@/components/layout/sections/hero";
-import { PricingSection } from "@/components/layout/sections/pricing";
-import { ServicesSection } from "@/components/layout/sections/services";
-import { SponsorsSection } from "@/components/layout/sections/sponsors";
-import { TeamSection } from "@/components/layout/sections/team";
-import { TestimonialSection } from "@/components/layout/sections/testimonial";
+import { BenefitsSection } from '@/components/layout/sections/benefits';
+import { CommunitySection } from '@/components/layout/sections/community';
+import { ContactSection } from '@/components/layout/sections/contact';
+import { FAQSection } from '@/components/layout/sections/faq';
+import { FeaturesSection } from '@/components/layout/sections/features';
+import { FooterSection } from '@/components/layout/sections/footer';
+import { HeroSection } from '@/components/layout/sections/hero';
+import { PricingSection } from '@/components/layout/sections/pricing';
+import { ServicesSection } from '@/components/layout/sections/services';
+import { SponsorsSection } from '@/components/layout/sections/sponsors';
+import { TeamSection } from '@/components/layout/sections/team';
+import { TestimonialSection } from '@/components/layout/sections/testimonial';
 
 export const metadata = {
-  title: "Shadcn - Landing template",
-  description: "Free Shadcn landing page for developers",
+  title: 'Datnoid | Safe and Fair trading in web3.',
+  description:
+    'Stop losing money in web3. Datnoid is the safest DEX in crypto; Discover, trade, and create tokens with our Fair Launch System.',
   openGraph: {
-    type: "website",
-    url: "https://github.com/nobruf/shadcn-landing-page.git",
-    title: "Shadcn - Landing template",
-    description: "Free Shadcn landing page for developers",
+    type: 'website',
+    url: 'https://datnoid.com/',
+    title: 'Datnoid | Safe and Fair trading in web3.',
+    description:
+      'Stop losing money in web3. Datnoid is the safest DEX in crypto; Discover, trade, and create tokens with our Fair Launch System.',
     images: [
       {
-        url: "https://res.cloudinary.com/dbzv9xfjp/image/upload/v1723499276/og-images/shadcn-vue.jpg",
-        width: 1200,
-        height: 630,
-        alt: "Shadcn - Landing template",
+        url: 'https://datnoid.com/logocolor.png',
+        width: 200,
+        height: 200,
+        alt: 'Datnoid Logo',
       },
     ],
   },
   twitter: {
-    card: "summary_large_image",
-    site: "https://github.com/nobruf/shadcn-landing-page.git",
-    title: "Shadcn - Landing template",
-    description: "Free Shadcn landing page for developers",
-    images: [
-      "https://res.cloudinary.com/dbzv9xfjp/image/upload/v1723499276/og-images/shadcn-vue.jpg",
-    ],
+    card: 'summary',
+    site: '@datnoid_dapp',
+    title: 'Datnoid | Safe and Fair trading in web3.',
+    description:
+      'Stop losing money in web3. Datnoid is the safest DEX in crypto; Discover, trade, and create tokens with our Fair Launch System.',
+    images: ['https://datnoid.com/logocolor.png'],
   },
+  additionalMetaTags: [
+    {
+      property: 'keywords',
+      content:
+        'datnoid, memecoins, avalanche, dex, trading, memes, cryptocurrency',
+    },
+    {
+      property: 'robots',
+      content: 'index, follow',
+    },
+    {
+      property: 'author',
+      content: 'Datnoid',
+    },
+  ],
+  additionalLinkTags: [
+    {
+      rel: 'canonical',
+      href: 'https://datnoid.com/',
+    },
+  ],
 };
 
 export default function Home() {
@@ -47,11 +69,10 @@ export default function Home() {
       <BenefitsSection />
       <FeaturesSection />
       <ServicesSection />
-      <TestimonialSection />
+      {/* <TestimonialSection /> */}
       <TeamSection />
       <CommunitySection />
-      <PricingSection />
-      <ContactSection />
+
       <FAQSection />
       <FooterSection />
     </>
