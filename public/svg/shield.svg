@@ -1,0 +1,85 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="69" y="89" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="69" y="70" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="88" y="89" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="88" y="70" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<g opacity="0.3">
+<rect x="29" y="89" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="29" y="70" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="48" y="89" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="48" y="70" width="1" height="1" fill="white" fill-opacity="0.1"/>
+</g>
+<g opacity="0.3">
+<rect x="29" y="129.5" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="29" y="110.5" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="48" y="129.5" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="48" y="110.5" width="1" height="1" fill="white" fill-opacity="0.1"/>
+</g>
+<g opacity="0.3">
+<rect x="69" y="49" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="69" y="30" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="88" y="49" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="88" y="30" width="1" height="1" fill="white" fill-opacity="0.1"/>
+</g>
+<g opacity="0.3">
+<rect x="69" y="169" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="69" y="150" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="88" y="169" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="88" y="150" width="1" height="1" fill="white" fill-opacity="0.1"/>
+</g>
+<rect x="69" y="129" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="69" y="110" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="88" y="129" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="88" y="110" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="110" y="89" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="110" y="70" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="129" y="89" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="129" y="70" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<g opacity="0.3">
+<rect x="150" y="89" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="150" y="70" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="169" y="89" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="169" y="70" width="1" height="1" fill="white" fill-opacity="0.1"/>
+</g>
+<g opacity="0.3">
+<rect x="150" y="129.5" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="150" y="110.5" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="169" y="129.5" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="169" y="110.5" width="1" height="1" fill="white" fill-opacity="0.1"/>
+</g>
+<g opacity="0.3">
+<rect x="110" y="49" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="110" y="30" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="129" y="49" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="129" y="30" width="1" height="1" fill="white" fill-opacity="0.1"/>
+</g>
+<g opacity="0.3">
+<rect x="110" y="169" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="110" y="150" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="129" y="169" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="129" y="150" width="1" height="1" fill="white" fill-opacity="0.1"/>
+</g>
+<rect x="110" y="129" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="110" y="110" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="129" y="129" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<rect x="129" y="110" width="1" height="1" fill="white" fill-opacity="0.1"/>
+<g filter="url(#filter0_f_411_193854)">
+<circle cx="99.4998" cy="99.9998" r="42.7264" fill="url(#paint0_radial_411_193854)"/>
+</g>
+<path d="M99.5 148C57.1604 131.81 59.0235 81.4898 60.6482 66.1106C60.9089 63.6426 63.2653 62.0509 65.6876 62.5912C76.433 64.988 87.6794 62.1701 96.0251 54.9897L97.6641 53.5795C98.699 52.6891 100.246 52.7486 101.209 53.7157C109.101 61.6372 120.437 65.0767 131.4 62.8759L133.159 62.5229C135.681 62.0165 138.098 63.6781 138.365 66.2368C139.986 81.7631 141.724 131.854 99.5 148Z" fill="url(#paint1_linear_411_193854)"/>
+<defs>
+<filter id="filter0_f_411_193854" x="17.6734" y="18.1734" width="163.653" height="163.653" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="19.55" result="effect1_foregroundBlur_411_193854"/>
+</filter>
+<radialGradient id="paint0_radial_411_193854" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(99.4998 99.9998) rotate(90) scale(42.7264)">
+<stop stop-color="#7000FF"/>
+<stop offset="1" stop-color="#792BF8" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="paint1_linear_411_193854" x1="99.5" y1="52" x2="99.5" y2="148" gradientUnits="userSpaceOnUse">
+<stop stop-color="#873EFF" stop-opacity="0.4"/>
+<stop offset="1" stop-color="#873EFF" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
