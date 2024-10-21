@@ -1,6 +1,7 @@
 export const metadata = {
-  title: 'Home - Stellar',
-  description: 'Page description',
+  title: 'Datnoid | Safe and Fair trading in web3',
+  description:
+    'Stop losing money in web3. Datnoid is the safest DEX in crypto; Discover, trade, and create tokens with our Fair Launch System.',
 };
 
 import Hero from '@/components/hero';
