@@ -2,7 +2,7 @@ import Image from 'next/image';
 import Particles from './particles';
 import Highlighter, { HighlighterItem } from './highlighter';
 
-import FeatureImg01 from '@/public/images/feature-image-01.png';
+import FeatureImg01 from '@/public/model.webp';
 import FeatureImg02 from '@/public/images/feature-image-02.png';
 import FeatureImg03 from '@/public/images/feature-image-03.png';
 
@@ -121,6 +121,8 @@ export default function Features02() {
                             <p className="text-slate-400">
                               Our LP token holders earn on every swap, for every
                               possible token pair on our platform. No more
+                              guessing price bins or actively managing
+                              liquidity.
                             </p>
                           </div>
                         </div>
