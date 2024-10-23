@@ -180,13 +180,13 @@ export default function Features02() {
                       </div>
                       {/* Image */}
                       <div className="relative w-full h-64 md:h-auto overflow-hidden md:pb-8">
-                        <Image
+                        {/* <Image
                           className="absolute bottom-0 left-1/2 -translate-x-1/2 mx-auto max-w-none md:max-w-full md:relative md:left-0 md:translate-x-0"
                           src={FeatureImg02}
                           width={536}
                           height={230}
                           alt="Feature 02"
-                        />
+                        /> */}
                       </div>
                     </div>
                   </div>
@@ -217,13 +217,13 @@ export default function Features02() {
                       </div>
                       {/* Image */}
                       <div className="relative w-full h-64 md:h-auto overflow-hidden md:pb-8">
-                        <Image
+                        {/* <Image
                           className="absolute bottom-0 left-1/2 -translate-x-1/2 mx-auto max-w-none md:max-w-full md:relative md:left-0 md:translate-x-0"
                           src={FeatureImg03}
                           width={230}
                           height={230}
                           alt="Feature 03"
-                        />
+                        /> */}
                       </div>
                     </div>
                   </div>
