@@ -126,24 +126,11 @@ export default function Features02() {
                             </p>
                           </div>
                         </div>
-                        <div>
-                          <a
-                            className="btn-sm text-slate-300 hover:text-white transition duration-150 ease-in-out group [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box] relative before:absolute before:inset-0 before:bg-slate-800/30 before:rounded-full before:pointer-events-none"
-                            href="#0"
-                          >
-                            <span className="relative inline-flex items-center">
-                              Learn more{' '}
-                              <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">
-                                -&gt;
-                              </span>
-                            </span>
-                          </a>
-                        </div>
                       </div>
                       {/* Image */}
-                      <div className="relative w-full h-64 md:h-auto overflow-hidden">
+                      <div className="relative w-full md:w-1/2 aspect-w-4 aspect-h-3 overflow-hidden flex items-center justify-center">
                         <Image
-                          className="absolute bottom-0 left-1/2 -translate-x-1/2 mx-auto max-w-none md:relative md:left-0{md}transla{}-x-0"
+                          className="w-full h-full object-contain"
                           src={FeatureImg01}
                           width="504"
                           height="400"
