@@ -32,14 +32,14 @@ export default function Hero() {
               className="h1 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4"
               data-aos="fade-down"
             >
-              Datnoid
+              Datnoid DEX
             </h1>
             <p
               className="text-lg text-slate-300 mb-8"
               data-aos="fade-down"
               data-aos-delay="200"
             >
-              The safest DEX in crypto with the highest returns for liquidity
+              The safest Decentralized Exchange in crypto with the highest returns for liquidity
               providers.
             </p>
             <div
