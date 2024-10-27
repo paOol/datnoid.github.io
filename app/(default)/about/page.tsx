@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'About - Stellar',
-  description: 'Page description',
+  title: 'About - Datnoid',
+  description: 'We prevent scams for token traders and generate better returns for liquidity providers on our unified liquidity DEX.',
 }
 
 import Hero from '@/components/hero-about'
