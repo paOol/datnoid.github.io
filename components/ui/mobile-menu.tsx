@@ -37,7 +37,6 @@ export default function MobileMenu() {
 
   return (
     <div className="md:hidden flex items-center ml-4">
-      {/* Hamburger button */}
       <button
         ref={trigger}
         className={`hamburger ${mobileNavOpen && 'active'}`}
