@@ -76,23 +76,6 @@ export default function MobileMenu() {
               About
             </Link>
           </li>
-
-          {/* <li>
-            <Link
-              className="flex font-medium text-sm text-slate-300 hover:text-white py-1.5"
-              href="/customers"
-            >
-              Customers
-            </Link>
-          </li>
-          <li>
-            <Link
-              className="flex font-medium text-sm text-slate-300 hover:text-white py-1.5"
-              href="/changelog"
-            >
-              Changelog
-            </Link>
-          </li> */}
         </ul>
       </nav>
     </div>
