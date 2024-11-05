@@ -254,8 +254,9 @@ export default function Features02() {
                 <h4 className="font-medium text-slate-50">Arbitrage King</h4>
               </div>
               <p className="text-sm text-slate-400">
-                Login box must find the right balance for the user convenience,
-                privacy and security.
+                Buying tokens launched on datnoid generates arbitrage
+                opportunities for universal assets (AVAX,USDC,WETH.e, BTC.b,
+                etc).
               </p>
             </div>
             {/* Feature */}
