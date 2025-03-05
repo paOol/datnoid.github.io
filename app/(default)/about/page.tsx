@@ -1,7 +1,7 @@
 export const metadata = {
-  title: 'About - Datnoid',
+  title: 'Datnoid: The Future of Fair Meme Coin Launches & Trading',
   description:
-    'We prevent scams for token traders and generate better returns for liquidity providers on our unified liquidity DEX.',
+    'Stop losing money in web3. Datnoid is the innovative launchpad redefining meme coin launches with transparent methods, and a unified liquidity pool for secure, fair trading.',
 };
 
 import Hero from '@/components/hero-about';

@@ -1,7 +1,7 @@
 export const metadata = {
-  title: 'Datnoid | Safe and Fair trading in web3',
+  title: 'Datnoid: The Future of Fair Meme Coin Launches & Trading',
   description:
-    'Stop losing money in web3. Datnoid is the safest DEX in crypto; Discover, trade, and create tokens with our Fair Launch System.',
+    'Stop losing money in web3. Datnoid is the innovative launchpad redefining meme coin launches with transparent methods, and a unified liquidity pool for secure, fair trading.',
 };
 
 import Hero from '@/components/hero';
@@ -11,7 +11,6 @@ import Features02 from '@/components/features-02';
 import Features03 from '@/components/features-03';
 import TestimonialsCarousel from '@/components/testimonials-carousel';
 import Features04 from '@/components/features-04';
-import Pricing from './pricing-section';
 import Testimonials from '@/components/testimonials';
 import Cta from '@/components/cta';
 
