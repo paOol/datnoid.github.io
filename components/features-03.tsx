@@ -41,8 +41,8 @@ export default function Features03() {
               Unified Liquidity Pool
             </h2>
             <p className="text-lg text-slate-400">
-              Traditional DEXes fragment liquidity and make trading inefficient.
-              Trying to make money by providing liquidity is so easy now.
+              Datnoid isn't just about launches — it redefines liquidity and
+              trading efficiency.
             </p>
           </div>
 

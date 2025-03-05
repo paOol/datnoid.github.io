@@ -47,6 +47,20 @@ export default function Faqs() {
             {/* Column */}
             <div className="w-full md:w-1/2 space-y-8">
               {/* Item */}
+
+              <div className="space-y-2">
+                <h4 className="font-semibold">
+                  What is the benefit of Datnoid's unified liquidity pool?
+                </h4>
+                <p className="text-slate-400">
+                  Our unified liquidity pool enables seamless swaps between
+                  multiple tokens, reducing fees and slippage. This efficient
+                  design not only supports immediate trading but also rewards
+                  liquidity providers with higher APRs from every swap across
+                  the ecosystem.
+                </p>
+              </div>
+
               <div className="space-y-2">
                 <h4 className="font-semibold">
                   What makes Datnoid more profitable than traditional DEXes?
@@ -99,14 +113,17 @@ export default function Faqs() {
               {/* Item */}
               <div className="space-y-2">
                 <h4 className="font-semibold">
-                  What features make Datnoid stand out from pump and other
-                  clones?
+                  What makes Datnoid different from other meme coin platforms?
                 </h4>
                 <p className="text-slate-400">
-                  Pump.fun is a bond curve contract and users buy into tokens to
-                  seed the liquidity where it is migrated to a 3rd party DEX if
-                  there is enough traction. Datnoid IS the DEX with a unified
-                  liquidity pool and has no bond curve contract exploits.
+                  Datnoid prevents rug pulls and bot abuse through transparent
+                  launches and fair distribution. The scheduled launch system
+                  eliminates stealth drops that benefit insiders. Our unified
+                  liquidity pool enables seamless trading with fewer swaps and
+                  lower costs. Tokens don't start at near-zero prices like on
+                  other platforms, and there's no fragmented liquidity. This
+                  creates a superior trading environment for both creators and
+                  buyers, with transparent price discovery from day one.
                 </p>
               </div>
             </div>

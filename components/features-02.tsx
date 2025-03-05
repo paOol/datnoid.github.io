@@ -23,13 +23,15 @@ export default function Features02() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">
-              Earn more.
+              Why Datnoid?
             </h2>
             <p className="text-lg text-slate-400">
-              Simply stake any single asset like AVAX, USDC, or ETH and you get
-              the Datnoid LP token. Fees from each swap are distributed to all
-              LP holders. Our LP token can be unstaked for any asset in the
-              pool. Passively watch the value of your LP token grow.
+              Meme coins have exploded in popularity, but many existing launch
+              platforms have been plagued by scams, rug pulls, and bot-driven
+              pump-and-dump schemes, leaving creators and investors frustrated.
+              Datnoid offers a fair, secure, and transparent alternative,
+              ensuring meme coins launch equitably while benefiting both
+              creators and investors.
             </p>
           </div>
 

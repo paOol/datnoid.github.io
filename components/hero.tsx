@@ -39,8 +39,7 @@ export default function Hero() {
               data-aos="fade-down"
               data-aos-delay="200"
             >
-              The safest Decentralized Exchange in crypto with the highest returns for liquidity
-              providers.
+              The Future of Fair Meme Coin Launches
             </p>
             <div
               className="max-w-xs mx-auto sm:max-w-none sm:inline-flex sm:justify-center space-y-4 sm:space-y-0 sm:space-x-4"
